@@ -1,0 +1,15 @@
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.csproj.AssemblyReference.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.AssemblyInfoInputs.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.AssemblyInfo.cs
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.csproj.CoreCompileInputs.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\bin\Debug\net6.0\Emlak.cs.exe
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\bin\Debug\net6.0\Emlak.cs.deps.json
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\bin\Debug\net6.0\Emlak.cs.runtimeconfig.json
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\bin\Debug\net6.0\Emlak.cs.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\bin\Debug\net6.0\Emlak.cs.pdb
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\refint\Emlak.cs.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.pdb
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\Emlak.cs.genruntimeconfig.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\C#\Patika\Emlak.cs\Emlak.cs\obj\Debug\net6.0\ref\Emlak.cs.dll

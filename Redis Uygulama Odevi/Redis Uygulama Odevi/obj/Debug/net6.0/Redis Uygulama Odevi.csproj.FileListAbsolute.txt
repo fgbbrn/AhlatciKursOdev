@@ -1,0 +1,19 @@
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.csproj.AssemblyReference.cache
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.AssemblyInfoInputs.cache
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.AssemblyInfo.cs
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.csproj.CoreCompileInputs.cache
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\Redis Uygulama Odevi.exe
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\Redis Uygulama Odevi.deps.json
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\Redis Uygulama Odevi.runtimeconfig.json
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\Redis Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\Redis Uygulama Odevi.pdb
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.csproj.CopyComplete
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\refint\Redis Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.pdb
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\Redis Uygulama Odevi.genruntimeconfig.cache
+C:\Users\fgb19\Desktop\Redis Uygulama Odevi\Redis Uygulama Odevi\obj\Debug\net6.0\ref\Redis Uygulama Odevi.dll

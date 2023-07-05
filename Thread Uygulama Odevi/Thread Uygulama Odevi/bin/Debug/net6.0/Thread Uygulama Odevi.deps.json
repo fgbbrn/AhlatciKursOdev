@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Thread Uygulama Odevi/1.0.0": {
+        "runtime": {
+          "Thread Uygulama Odevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thread Uygulama Odevi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

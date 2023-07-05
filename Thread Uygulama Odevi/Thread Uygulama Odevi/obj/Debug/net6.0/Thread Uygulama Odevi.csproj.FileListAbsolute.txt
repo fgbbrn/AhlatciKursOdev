@@ -1,0 +1,30 @@
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.exe
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.deps.json
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.runtimeconfig.json
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.pdb
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.csproj.AssemblyReference.cache
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.AssemblyInfoInputs.cache
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.AssemblyInfo.cs
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.csproj.CoreCompileInputs.cache
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\refint\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.pdb
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.genruntimeconfig.cache
+C:\Users\fgb19\Desktop\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\ref\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.exe
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.deps.json
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.runtimeconfig.json
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\bin\Debug\net6.0\Thread Uygulama Odevi.pdb
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.csproj.AssemblyReference.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.AssemblyInfoInputs.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.AssemblyInfo.cs
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.csproj.CoreCompileInputs.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\refint\Thread Uygulama Odevi.dll
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.pdb
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\Thread Uygulama Odevi.genruntimeconfig.cache
+C:\Users\fgb19\Desktop\Yazılım Ders Notları\ahlatcı\Ödevler\Thread Uygulama Odevi\Thread Uygulama Odevi\obj\Debug\net6.0\ref\Thread Uygulama Odevi.dll
